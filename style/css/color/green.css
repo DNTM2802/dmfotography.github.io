@@ -1,66 +1,66 @@
 
 .disc:after {
-    background: rgba(63, 191, 174, 0.7)
+    background: rgba(0, 132, 180, 0.7)
 }
 .overlay.color span.bg {
-    background: rgba(63, 191, 174, 0.8);
+    background: rgba(0, 132, 180, 0.8);
 }
 .overlay6.color:after,
 .overlay6.color:before {
-    background: rgba(63, 191, 174, 0.5);
+    background: rgba(0, 132, 180, 0.5);
 }
 .overlay8.color figcaption {
-    background: rgba(63, 191, 174, 0.8);
+    background: rgba(0, 132, 180, 0.8);
 }
 .page-loading .spinner,
 .tp-loader.spinner,
 .lg-outer .lg-item:after,
 .fotorama__wrap--css3 .fotorama__spinner {
-    border-left: 3px solid rgba(63, 191, 174, .15);
-    border-right: 3px solid rgba(63, 191, 174, .15);
-    border-bottom: 3px solid rgba(63, 191, 174, .15);
-    border-top: 3px solid rgba(63, 191, 174, .8);
+    border-left: 3px solid rgba(0, 132, 180, .15);
+    border-right: 3px solid rgba(0, 132, 180, .15);
+    border-bottom: 3px solid rgba(0, 132, 180, .15);
+    border-top: 3px solid rgba(0, 132, 180, .8);
 }
 #scrollUp .btn {
-    background: rgba(63, 191, 174, 0.8);
+    background: rgba(0, 132, 180, 0.8);
 }
 #scrollUp .btn:hover,
 #scrollUp .btn:focus,
 #scrollUp .btn:active,
 #scrollUp .btn.active {
-    background: rgba(63, 191, 174, 1);
+    background: rgba(0, 132, 180, 1);
 }
 a.hover:hover {
-    border-bottom: 1px solid #3fbfae;
+    border-bottom: 1px solid #0084b4;
 }
 a {
-    color: #3fbfae;
+    color: #0084b4;
 }
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #3fbfae;
+    color: #0084b4;
 }
 .color-wrapper {
-    background: #3fbfae;
+    background: #0084b4;
 }
 .navbar .nav > li > a:hover,
 .navbar .nav > li.active > a,
 .navbar .navbar-other a.nav-link:hover {
     background: none;
-    color: #3fbfae
+    color: #0084b4
 }
 .btn-group .dropdown-menu > li > a:hover,
 .btn-group .dropdown-menu > li > a:focus {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .btn {
-    background: #3fbfae;
+    background: #0084b4;
 }
 .btn-border {
-    border: 2px solid #3fbfae;
+    border: 2px solid #0084b4;
     background: none;
-    color: #3fbfae;
+    color: #0084b4;
 }
 .btn:hover,
 .btn:focus,
@@ -72,49 +72,49 @@ a:focus {
 .btn-border:focus,
 .btn-border:active,
 .btn-border.active {
-    border: 2px solid #3fbfae;
-    background: #3fbfae;
+    border: 2px solid #0084b4;
+    background: #0084b4;
 }
 .fotorama__nav__frame.fotorama__nav__frame--thumb.fotorama__active:before {
-    border: 2px solid #3fbfae;
+    border: 2px solid #0084b4;
 }
 .isotope-filter ul li a:hover,
 .isotope-filter ul li a.active {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .size-picker span.active {
-    background: #3fbfae;
+    background: #0084b4;
 }
 .post-title a:hover,
 .more:hover,
 .meta a:hover {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .meta.price {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .post-nav-wrapper a:hover {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .sidebox a:hover {
-    color: #3fbfae
+    color: #0084b4
 }
 #comments .info h5 a:hover {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .image-list li a:hover {
-    color: #3fbfae
+    color: #0084b4
 }
 .icon-color,
 .text-color,
 .circle .progressbar-text {
-    color: #3fbfae
+    color: #0084b4
 }
 .icon-border {
-    border: 3px solid #3fbfae;
+    border: 3px solid #0084b4;
 }
 .icon-bg {
-    background: #3fbfae;
+    background: #0084b4;
 }
 .nav-tabs > li > a:hover,
 .nav-tabs > li > a:hover *,
@@ -122,46 +122,46 @@ a:focus {
 .nav-tabs > li.active > a *,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .nav-tabs-lined.nav-tabs-lined-bottom > li.active > a:after {
-    border-bottom: 1px solid #3fbfae;
+    border-bottom: 1px solid #0084b4;
 }
 .nav-tabs-lined.nav-tabs-lined-top > li.active > a:after {
-    border-top: 1px solid #3fbfae;
+    border-top: 1px solid #0084b4;
 }
 .panel-group-lined .panel-active .panel-heading .panel-title {
-    border-bottom: 1px solid #3fbfae;
-    color: #3fbfae;
+    border-bottom: 1px solid #0084b4;
+    color: #0084b4;
 }
 .panel-group-lined .panel-title > a:active {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .timeline.dot .timeline-icon:before {
-	background: #3fbfae;
+	background: #0084b4;
 }
 .tooltip-inner {
-    background-color: #3fbfae;
+    background-color: #0084b4;
 }
 .tooltip.top .tooltip-arrow,
 .tooltip.top-left .tooltip-arrow,
 .tooltip.top-right .tooltip-arrow {
-    border-top-color: #3fbfae
+    border-top-color: #0084b4
 }
 .tooltip.right .tooltip-arrow {
-    border-right-color: #3fbfae
+    border-right-color: #0084b4
 }
 .tooltip.left .tooltip-arrow {
-    border-left-color: #3fbfae
+    border-left-color: #0084b4
 }
 .tooltip.bottom .tooltip-arrow,
 .tooltip.bottom-left .tooltip-arrow,
 .tooltip.bottom-right .tooltip-arrow {
-    border-bottom-color: #3fbfae
+    border-bottom-color: #0084b4
 }
 .pagination ul > li > a:hover,
 .pagination ul > .active > a span {
-    color: #3fbfae
+    color: #0084b4
 }
 textarea:focus,
 textarea.form-control:focus,
@@ -180,40 +180,40 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .uneditable-input:focus {
-    border-color: #3fbfae
+    border-color: #0084b4
 }
 input[type="radio"]:focus + span,
 input[type="checkbox"]:focus + span,
 input[type="radio"]:active + span,
 input[type="checkbox"]:active + span {
-    border-color: #3fbfae
+    border-color: #0084b4
 }
 input[type="radio"].error + span,
 input[type="checkbox"].error + span {
-    border-color: #3fbfae
+    border-color: #0084b4
 }
 input[type="radio"] + span::after {
-    background-color: #3fbfae;
-    border-color: #3fbfae;
+    background-color: #0084b4;
+    border-color: #0084b4;
 }
 input[type="radio"]:checked + span,
 input[type="checkbox"]:checked + span {
-    border: 1px solid #3fbfae
+    border: 1px solid #0084b4
 }
 input[type="checkbox"] + span::after {
-    border: 0 solid #3fbfae;
+    border: 0 solid #0084b4;
 }
 .bg-default {
-    background: #3fbfae
+    background: #0084b4
 }
 .progressbar.border {
-	border-color: #3fbfae;
+	border-color: #0084b4;
 }
 .progressbar svg path:last-child {
-    stroke: #3fbfae;
+    stroke: #0084b4;
 }
 .page-loading .caption {
-    color: #3fbfae;
+    color: #0084b4;
 }
 .inverse-text.dark-wrapper .pagination:not(.boxed):not(.round) ul > li > a:hover,
 .inverse-text.dark-wrapper .pagination.round-simple ul > li > a:hover,
@@ -221,14 +221,14 @@ input[type="checkbox"] + span::after {
 .inverse-text .isotope-filter ul li a:hover,
 .inverse-text .isotope-filter ul li a.active,
 .inverse-text .text-color {
-    color: #3fbfae !important;
+    color: #0084b4 !important;
 }
 .inverse-text .post-title a:hover,
 .inverse-text .bg-white .meta a:hover,
 .inverse-text .bg-white a.more:hover,
 .inverse-text .pagination:not(.boxed):not(.round) ul > li > a:hover,
 .inverse-text .pagination.round-simple ul > li > a:hover {
-    color: #3fbfae !important;
+    color: #0084b4 !important;
 }
 .inverse-text:not(.navbar):not(.nav-wrapper) textarea:focus,
 .inverse-text:not(.navbar):not(.nav-wrapper) input[type="text"]:focus,
@@ -246,18 +246,18 @@ input[type="checkbox"] + span::after {
 .inverse-text:not(.navbar):not(.nav-wrapper) input[type="tel"]:focus,
 .inverse-text:not(.navbar):not(.nav-wrapper) input[type="color"]:focus,
 .inverse-text:not(.navbar):not(.nav-wrapper) .uneditable-input:focus {
-    border-color: #3fbfae;
+    border-color: #0084b4;
 }
 .inverse-text:not(.navbar):not(.nav-wrapper) input[type="radio"]:checked + span,
 .inverse-text:not(.navbar):not(.nav-wrapper) input[type="checkbox"]:checked + span {
-    border-color: #3fbfae
+    border-color: #0084b4
 }
 @media (min-width: 992px) {
     .navbar .navbar-nav > li > a.highlighted {
-	    color: #3fbfae
+	    color: #0084b4
 	}
 	.inverse-text .navbar-nav > li:not(.active) > a:not(.highlighted):hover,
 	.inverse-text .navbar-nav > li > a:hover {
-		color: #3fbfae !important
+		color: #0084b4 !important
 	}
 }
