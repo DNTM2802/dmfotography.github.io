@@ -1,6 +1,4 @@
-# DNTM2802.github.io
-DMPhotography
+# Photography website
 
-Website designed for a photographer, where he can show his work through an interactive portfolio, spread his social networks and place his biography and contacts.
-
+Made with HTML, CSS and JavaScript.
 Mobile-First, Responsive and Dynamic Design.
